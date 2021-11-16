@@ -1,5 +1,5 @@
 {
-	"name": "pl_hospital_admissions",
+	"name": "pl_process_hospital_admissions",
 	"properties": {
 		"activities": [
 			{
@@ -27,6 +27,9 @@
 				}
 			}
 		],
+		"folder": {
+			"name": "Process"
+		},
 		"annotations": [],
 		"lastPublishTime": "2021-11-08T23:43:02Z"
 	},
